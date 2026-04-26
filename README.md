@@ -44,6 +44,7 @@ This is a portable package—no complex installation or environment configuratio
     [sp2] Hi, nice to meet you!
     [sp1] Let's test the multi-speaker synthesis.
     ```
+Video Tutorials:https://www.youtube.com/watch?v=C7NpPxaGr4A
 
 ### ⚠️ Important Requirements & Notes
 * **Hardware:** NVIDIA GPU with at least **6GB VRAM**. Please ensure your NVIDIA graphics drivers are up to date.
